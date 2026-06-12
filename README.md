@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Dũng%20Antôn!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20@%20CMC%20University%20|%20GSA%20|%20AI%20%26%20MarTech%20Enthusiast&descAlignY=55&descSize=20" alt="Header Banner" />
+  <img src="https://i.postimg.cc/Jz4nJJyh/Anh-bia.png" alt="Header Banner" />
 </div>
 
 <div align="center">
