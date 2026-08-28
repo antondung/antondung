@@ -1,527 +1,539 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=220&section=header&text=NGUYỄN%20TẤN%20DŨNG&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Computer%20Vision%20%7C%20LegalTech%20%7C%20Research%20%7C%20Innovation&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:7C3AED&height=230&section=header&text=DŨNG.EXE&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=AI%20%7C%20CODE%20%7C%20RESEARCH%20%7C%20CREATIVE&descAlignY=63&descSize=19&animation=fadeIn" width="100%"/>
 
-# Nguyễn Tấn Dũng
+# Hey! I'm Nguyễn Tấn Dũng 👋
 
-### AI Engineer • Researcher • Developer • Innovation Enthusiast
+### 🤖 AI Builder · 💻 Developer · 🔬 Researcher · 🚀 Competition Addict
 
 <p>
-  <a href="https://github.com/antondung">
-    <img src="https://img.shields.io/badge/GitHub-antondung-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-1E293B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-334155?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LegalTech-475569?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Research-64748B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎓_CMC_University-Student-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_Google_Student_Ambassador-Season_1-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📍_Hanoi-Vietnam-EF4444?style=for-the-badge"/>
 </p>
 
 <p>
-  <b>CMC University · Hanoi, Vietnam</b>
+
+<a href="https://github.com/antondung">
+<img src="https://img.shields.io/badge/GitHub-antondung-181717?style=flat-square&logo=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_FACEBOOK_URL">
+<img src="https://img.shields.io/badge/Facebook-Let's%20connect-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
 
 <br>
 
-> **I build intelligent systems that turn research ideas into real-world solutions.**
+> **I build things, break things, learn things — then build them better. ⚡**
 
 </div>
 
 ---
 
-# 👋 About Me
+## 🧑‍💻 whoami
 
-I'm **Nguyễn Tấn Dũng**, a student at **CMC University** passionate about **Artificial Intelligence, Computer Vision, Software Engineering and Scientific Research**.
+```python
+class Dung:
 
-My journey combines three things:
+    name = "Nguyễn Tấn Dũng"
+    username = "antondung"
+    university = "CMC University"
+    location = "Hanoi, Vietnam"
 
-**Research** → understanding difficult problems
-**Engineering** → turning ideas into working systems
-**Innovation** → creating technology with real-world impact
+    interests = [
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Legal AI",
+        "RAG & Knowledge Graph",
+        "Drone Intelligence",
+        "Scientific Research",
+        "Software Engineering",
+        "Digital Marketing"
+    ]
 
-I have participated in and developed projects across **Legal AI, Computer Vision, Drone Intelligence, Traffic Monitoring, Disaster Response and intelligent information systems**.
-
-Beyond engineering, I actively participate in **AI competitions, hackathons, scientific research, technology communities and innovation challenges**.
-
-### Currently exploring
-
-`Artificial Intelligence` · `Computer Vision` · `Legal AI` · `RAG` · `Knowledge Graph` · `Drone Intelligence` · `Intelligent Systems`
-
----
-
-# 🧭 My Technology Journey
-
-```text
-                 RESEARCH
-                    │
-                    ▼
-            ┌─────────────────┐
-            │  Problem Study  │
-            └────────┬────────┘
-                     │
-                     ▼
-              EXPERIMENTATION
-                     │
-          ┌──────────┼──────────┐
-          ▼          ▼          ▼
-         AI       Computer    Data
-                  Vision
-          │          │          │
-          └──────────┼──────────┘
-                     ▼
-                ENGINEERING
-                     │
-                     ▼
-              REAL-WORLD SYSTEM
-                     │
-                     ▼
-                 INNOVATION
+    currently = "building + researching + competing 🚀"
 ```
 
-My goal is not simply to train a model.
+I'm a university student who enjoys living somewhere between:
 
-> **I want to understand the problem, design the system, build it, test it and turn it into something useful.**
+**🤖 Technology × 🔬 Research × 🎨 Creativity × 🚀 Competition**
+
+I started with programming and system projects, moved into **AI & Computer Vision**, and now I'm exploring how intelligent systems can solve real-world problems.
 
 ---
 
-# 🚀 Featured Work
+# ⚡ My Current Status
 
-<div align="center">
+| 🧠 Learning     | 🔨 Building           | 🏆 Doing               |
+| --------------- | --------------------- | ---------------------- |
+| AI / ML         | Legal AI              | AI competitions        |
+| Computer Vision | RAG systems           | Hackathons             |
+| Cyber Security  | Knowledge Graph       | Scientific Research    |
+| System Design   | Drone systems         | Marketing competitions |
+| Algorithms      | Intelligent platforms | Innovation projects    |
+
+---
+
+# 🤖 What I Actually Do
+
+### 🧠 AI
+
+`Machine Learning` · `Deep Learning` · `LLM` · `RAG`
+
+### 👁️ Computer Vision
+
+`YOLOv8` · `ByteTrack` · `OpenCV` · `EasyOCR`
+
+### ⚖️ Legal AI
+
+`Knowledge Graph` · `Temporal Retrieval` · `Grounded QA`
+
+### 🚁 Drone Intelligence
+
+`Drone Vision` · `GPS` · `Aerial Monitoring`
+
+### 💻 Software
+
+`Python` · `C++` · `TypeScript` · `React` · `FastAPI`
+
+### 🎨 Creative / Marketing
+
+`Digital Marketing` · `Brand Strategy` · `Creative Thinking`
+
+---
+
+# 🚀 Things I've Built
 
 ## ⚖️ LexSocial AI
 
-### Legal Intelligence Ecosystem
+### `AI × LegalTech × Knowledge Graph`
 
-<img src="https://img.shields.io/badge/AI%20Innovation%20Challenge-2026-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LegalTech-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Knowledge%20Graph-5B21B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Innovation%20Hackathon-2026-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Knowledge%20Graph-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/LegalTech-4C1D95?style=flat-square"/>
 
-</div>
+My flagship AI project for **AI Innovation Hackathon 2026**.
 
-**LexSocial AI** is an intelligent legal information ecosystem developed for the **AI Innovation Hackathon 2026**.
+### The problem
 
-The project focuses on a fundamental problem in Legal AI:
+> An AI can give an answer that sounds correct — but still be legally wrong if it uses the wrong version of the law.
 
-> **The latest law is not always the correct law for a historical situation.**
+### The idea
 
-The system combines:
-
-* 🧠 Large Language Models
-* 🔎 Retrieval-Augmented Generation
-* 🕸️ Relationship-Aware Knowledge Graph
-* ⏱️ Temporal / Effective-Date Retrieval
-* 📚 Evidence-grounded legal QA
-* 🔗 Citation & provenance
-* 📡 Social / News intelligence
-* 🚨 Misinformation detection
-* 🏛️ Government monitoring & governance
-
-### Architecture
+Build a Legal AI system that understands:
 
 ```text
-Legal Documents
-      │
-      ▼
-Document Extraction
-      │
-      ▼
-Article / Clause / Point
-      │
-      ▼
-Knowledge Graph ─────── Vector Database
-      │                         │
-      └──────────┬──────────────┘
-                 ▼
-          Temporal Retrieval
-                 │
-                 ▼
-              RAG / LLM
-                 │
-                 ▼
-       Evidence-Grounded Answer
-                 │
-                 ▼
-        Citation + Explanation
+WHAT does the law say?
+        +
+WHEN was it effective?
+        +
+HOW is it related to other regulations?
+        +
+WHERE did this answer come from?
+        ↓
+      TRUSTED
+    LEGAL ANSWER
 ```
 
-### Technology
+### Built with
 
 `Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `Neo4j` `Qdrant` `LLM` `RAG`
 
-🔗 **Repository:**
-https://github.com/antondung/CMC-404-Not-Found
+🔗 **[View Repository →](https://github.com/antondung/CMC-404-Not-Found)**
 
 ---
 
 # 🚁 Intelligent Traffic Monitoring System
 
-### Drone + Computer Vision + Web Management
+### `Drone × Computer Vision × Web`
 
-<img src="https://img.shields.io/badge/Scientific%20Research-Award%20Winner-0F766E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YOLOv8m-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ByteTrack-1D4ED8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EasyOCR-B45309?style=for-the-badge"/>
+A real-time traffic monitoring system using drone footage and AI.
 
-An intelligent traffic monitoring platform using **drone video + computer vision + web management**.
+### Pipeline
 
-### Core capabilities
+```text
+🚁 Drone
+   ↓
+🎥 Video Stream
+   ↓
+🎯 YOLOv8m
+   ↓
+🔄 ByteTrack
+   ↓
+🔤 EasyOCR
+   ↓
+🧠 Regex / Processing
+   ↓
+📊 Traffic Analytics
+   ↓
+🌐 Web Dashboard
+```
 
-| Capability                | Technology      |
-| ------------------------- | --------------- |
-| Vehicle Detection         | YOLOv8m         |
-| Multi-object Tracking     | ByteTrack       |
-| License Plate Recognition | EasyOCR         |
-| Text Processing           | Regex           |
-| Video Intelligence        | Computer Vision |
-| Monitoring                | Web Dashboard   |
-| Analytics                 | Real-time Data  |
+### Features
 
-The system explores how aerial computer vision can support:
+🚗 Vehicle Detection
+🔍 Multi-object Tracking
+🔤 License Plate Recognition
+⚠️ Wrong-way Detection
+🛣️ Traffic Violation Detection
+📊 Traffic Statistics
+🌐 Web Management
 
-* 🚗 Traffic flow monitoring
-* 🔍 Vehicle detection
-* 🔤 License plate recognition
-* ⚠️ Wrong-way detection
-* 🛣️ Traffic violation detection
-* 📊 Traffic statistics
-* 🖥️ Real-time web monitoring
-
-🔗 **Repository:**
-https://github.com/antondung/Intelligent-Traffic-Monitoring-System-using-Drone-and-Web-Management
+🔗 **[View Repository →](https://github.com/antondung/Intelligent-Traffic-Monitoring-System-using-Drone-and-Web-Management)**
 
 ---
 
-# 🔬 Scientific Research
+# 🏆 Achievement Unlocked
 
-## 🥉 Third Prize — Scientific Research
+```text
+🎓 Google Student Ambassador — Season 1
+🤖 AI Innovation Hackathon 2026
+🏁 Viettel AI Race 2026
+🦁 Vietnam Young Lions 2026 — Finalist
+🧴 L'Oréal Brandstorm — Participant
+🤖 Google AI RISE — Participant
+🥉 Scientific Research — Third Prize
+🏅 Scientific Research — Consolation Prize
+📜 Microsoft Office Specialist — MOS
+```
+
+---
+
+# 🔬 Research Mode ON
+
+## 🥉 Third Prize
 
 ### Flood Rescue Using GPS & Drone
 
-A research project exploring the use of **GPS and drones for rescue operations in flooded areas**.
+Research project focused on supporting flood rescue operations using:
 
-The project focuses on improving:
+`GPS` + `Drone` + `Aerial Monitoring` + `Emergency Response`
 
-* 📍 Location awareness
-* 🚁 Aerial observation
-* 🆘 Emergency response
-* 🌊 Flood-area monitoring
-* 🗺️ Rescue coordination
+The goal:
 
-The project represents one of my early experiences combining **technology, research and social impact**.
+> **Better information → faster decisions → better rescue coordination.**
 
 ---
 
-## 🏅 Consolation Prize — Scientific Research
+## 🏅 Consolation Prize
 
-### Intelligent Traffic Monitoring System using Drone
+### Intelligent Traffic Monitoring using Drone
 
-Research project applying **Computer Vision and Drone technology** to intelligent traffic monitoring.
+Combining:
 
-Technologies include:
+`Drone` + `YOLOv8` + `ByteTrack` + `EasyOCR` + `Web`
 
-`YOLOv8` · `ByteTrack` · `EasyOCR` · `OpenCV` · `Web Management`
+to explore intelligent aerial traffic monitoring.
 
 ---
 
-# 🏆 Competitions & Achievements
+# 🦁 Outside The Code
+
+Yes, I code.
+
+But I don't only code. 😎
+
+I've also jumped into the world of **marketing, branding and creative competitions**.
+
+### 🦁 Vietnam Young Lions 2026
+
+🏆 **National Finalist**
+
+**Digital Marketing · Student Category**
+
+Team **TRÀ ĐÁ**
+
+---
+
+### 🧴 L'Oréal Brandstorm
+
+Team **BINARY BLOOM**
+
+Exploring:
+
+`Branding` · `Consumer Insight` · `Creative Strategy` · `Innovation`
+
+---
+
+# 🌐 Community
+
+## Google Student Ambassador — Season 1
+
+Being a Google Student Ambassador gave me the opportunity to:
+
+* 🌱 Learn emerging technologies
+* 🤝 Connect with other students
+* 💡 Share knowledge
+* 🚀 Explore innovation
+* 🤖 Get closer to the AI ecosystem
+
+---
+
+# 🏫 Started Before University
+
+My technology journey started before university.
+
+During high school, I participated in:
+
+```text
+💻 System Projects
+       ↓
+🔬 Scientific Research
+       ↓
+🏆 Technology Competitions
+       ↓
+🤖 AI Projects
+       ↓
+🎓 University Research
+       ↓
+🚀 Innovation
+```
+
+I also achieved awards related to **scientific research and system/technology projects during high school**.
+
+Those early projects were basically where the whole journey started.
+
+---
+
+# 🧰 My Toolbox
 
 <div align="center">
 
-|   Year   | Achievement                                                   |
-| :------: | ------------------------------------------------------------- |
-| **2026** | 🤖 **AI Innovation Hackathon 2026** — Legal AI / LexSocial AI |
-| **2026** | 🏁 **Viettel AI Race 2026** — Participant                     |
-| **2026** | 🦁 **Vietnam Young Lions 2026** — National Finalist           |
-| **2026** | 🧴 **L'Oréal Brandstorm** — Participant                       |
-| **2026** | 🤖 **Google AI RISE** — Participant                           |
-| **2026** | 🎓 **Google Student Ambassador — Season 1**                   |
-|     —    | 🥉 **Third Prize — Scientific Research**                      |
-|     —    | 🏅 **Consolation Prize — Scientific Research**                |
+### 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,java&theme=dark"/>
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
+
+### 🌐 Web
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,fastapi&theme=dark"/>
+
+### 🗄️ Data / Dev Tools
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github&theme=dark"/>
 
 </div>
 
----
-
-# 🦁 Vietnam Young Lions 2026
-
-### Finalist — Digital Marketing · Student Category
-
-Reached the **Final Round of Vietnam Young Lions 2026** in the **Digital Marketing — Student** category.
-
-This experience allowed me to work beyond pure technology and explore:
-
-**Strategy · Creativity · Branding · Consumer Insight · Digital Marketing · Communication**
-
-It strengthened my belief that great technology also needs **great communication and great user understanding**.
-
----
-
-# 🌐 Google Student Ambassador
-
-### Google Student Ambassador — Season 1
-
-Selected as a **Google Student Ambassador**, participating in a student technology community focused on learning, sharing and connecting students with technology.
-
-This experience strengthened my interest in:
-
-* Technology communities
-* AI education
-* Knowledge sharing
-* Student innovation
-* Building with emerging technologies
-
----
-
-# 🧠 Technology Stack
-
-<div align="center">
-
-### Artificial Intelligence
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=light"/>
-
-### Programming
-
-<img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,java&theme=light"/>
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,fastapi&theme=light"/>
-
-### Databases & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,git,docker,github&theme=light"/>
-
-</div>
-
-### AI / Computer Vision
+### AI Stack
 
 ```text
 YOLOv8
 ByteTrack
 OpenCV
 EasyOCR
-Object Detection
-Object Tracking
-OCR
-Video Analytics
 Machine Learning
 Deep Learning
-```
-
-### Generative AI / Knowledge Systems
-
-```text
 LLM
 RAG
 Knowledge Graph
-Temporal Retrieval
 Vector Search
 Semantic Search
 Grounded QA
-Citation / Provenance
 ```
 
-### Software Engineering
+---
+
+# 🎮 Dũng.exe
 
 ```text
-Python
-C++
-TypeScript
-JavaScript
-React
-FastAPI
-REST API
-PostgreSQL
-Neo4j
-Qdrant
-Git / GitHub
+╭────────────────────────────────────────────╮
+│              DŨNG.EXE v2026                │
+├────────────────────────────────────────────┤
+│                                            │
+│  🤖 AI              █████████░░  90%       │
+│  💻 Coding          █████████░░  90%       │
+│  🔬 Research        ████████░░░  80%       │
+│  🚀 Innovation      █████████░░  90%       │
+│  🎨 Creativity      ████████░░░  80%       │
+│  ☕ Coffee          ███████████  100%      │
+│                                            │
+│  STATUS: BUILDING...                       │
+│                                            │
+╰────────────────────────────────────────────╯
 ```
 
 ---
 
-# 📜 Certifications
+# 💭 Fun Facts
 
-### Microsoft Office Specialist — MOS
+* ☕ Coffee makes debugging easier. Probably.
+* 🐛 I've spent too much time debugging code that turned out to be one stupid character.
+* 🤖 I can spend hours talking about AI.
+* 🎨 Then suddenly switch to marketing ideas.
+* 🚁 Drones + AI = instant curiosity.
+* ⚖️ Legal AI became much more interesting than expected.
+* 🌙 Some of my best ideas appear at completely unreasonable hours.
+* 💻 C++ debugging activates a completely different personality.
 
-Certified proficiency in Microsoft Office productivity tools.
-
-Areas include:
-
-* Microsoft Word
-* Microsoft Excel
-* Microsoft PowerPoint
+> **My brain has two modes:**
+> `strict logic when debugging C++`
+> `absolute chaos when brainstorming creative campaigns` 😂
 
 ---
 
-# 🎓 Early Journey
+# 🔭 What's Next?
 
-My interest in technology started **before university**.
+There are always several projects running in the background.
 
-During high school, I participated in **technology projects, scientific research and system-related competitions**, gaining early experience in:
+Some are public.
+
+Some are research.
+
+Some are experiments.
+
+And some are currently sitting in a folder called:
 
 ```text
-Programming
-    ↓
-Information Systems
-    ↓
-Scientific Research
-    ↓
-AI / Technology Projects
-    ↓
-University Research & Innovation
+final_final_v7_REAL_final/
 ```
 
-These early experiences became the foundation for my current direction in **AI, software engineering and research**.
+😭
+
+Currently exploring:
+
+* ⚖️ Legal AI
+* 🤖 Generative AI
+* 👁️ Computer Vision
+* 🚁 Drone Intelligence
+* 🧠 Knowledge Graph
+* 🔎 RAG
+* 🔐 Information Security
+* 🏙️ Smart City Systems
+* 🔬 Scientific Research
+* 🚀 AI Innovation
 
 ---
 
-# 🔭 What I'm Building Next
-
-I'm currently working on and experimenting with **multiple projects** across AI, software engineering, research and innovation.
-
-Areas I'm especially interested in:
-
-### ⚖️ Legal AI
-
-Building AI systems that understand:
-
-* Legal context
-* Temporal validity
-* Relationships between regulations
-* Evidence and provenance
-* Explainable legal reasoning
-
-### 👁️ Computer Vision
-
-Exploring:
-
-* Object detection
-* Multi-object tracking
-* OCR
-* Video understanding
-* Intelligent surveillance
-
-### 🚁 Drone Intelligence
-
-Combining:
-
-**Drone + AI + Computer Vision + GPS**
-
-for applications in:
-
-* Disaster response
-* Traffic monitoring
-* Smart cities
-* Environmental monitoring
-
-### 🧠 Intelligent Information Systems
-
-Building systems that can transform large amounts of information into:
-
-**Knowledge → Insight → Decision**
-
----
-
-# 💭 My Philosophy
-
-> ### Technology should not exist only to demonstrate technology.
-
-I believe the most interesting projects are those that combine:
-
-**A real problem**
-
-↓
-
-**Strong research**
-
-↓
-
-**Good engineering**
-
-↓
-
-**Intelligent technology**
-
-↓
-
-**Measurable impact**
-
----
-
-# 📌 Beyond Code
-
-I don't define myself only as a programmer.
-
-My experiences span across:
-
-| Area           | Focus                         |
-| -------------- | ----------------------------- |
-| 🤖 AI          | Machine Learning, LLM, RAG    |
-| 👁️ Vision     | Detection, Tracking, OCR      |
-| ⚖️ LegalTech   | Legal Intelligence            |
-| 🚁 Drones      | Aerial Intelligence           |
-| 🔬 Research    | Scientific Research           |
-| 💻 Engineering | Software & Systems            |
-| 📊 Data        | Information & Analytics       |
-| 🎨 Marketing   | Digital Strategy & Creativity |
-| 🚀 Innovation  | Hackathons & Competitions     |
-
-This combination helps me approach problems from both a **technical and product perspective**.
-
----
-
-# 🌱 Currently
+# 💬 Ask Me About
 
 ```text
-Learning        → continuously
-Building       → continuously
-Researching    → continuously
-Experimenting  → continuously
-Competing      → when the right challenge appears
-Collaborating  → always open
+🤖 AI / Machine Learning
+👁️ YOLOv8 / Computer Vision
+🚁 Drone + AI
+⚖️ Legal AI / RAG
+🕸️ Knowledge Graph
+🐍 Python
+⚙️ C++
+💻 Software Engineering
+🔬 Scientific Research
+🏆 Hackathons
+🦁 Young Lions
+🧴 Brandstorm
+🌐 Google Student Ambassador
 ```
 
 ---
 
-# 🤝 Let's Build Something
+# 🤝 Let's Connect!
 
-I'm open to collaborating on projects involving:
+<div align="center">
 
-**AI · Computer Vision · LegalTech · RAG · Knowledge Graph · Drone Intelligence · Scientific Research · Intelligent Systems · Open Source**
+### Got an interesting idea?
 
-If you are building something ambitious, feel free to connect.
+### Let's build it. 🚀
+
+<br>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_FACEBOOK_URL">
+<img src="https://img.shields.io/badge/📘_FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/📸_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/antondung">
+<img src="https://img.shields.io/badge/💻_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⭐ Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/antondung/CMC-404-Not-Found">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=antondung&repo=CMC-404-Not-Found&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/antondung/Intelligent-Traffic-Monitoring-System-using-Drone-and-Web-Management">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=antondung&repo=Intelligent-Traffic-Monitoring-System-using-Drone-and-Web-Management&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=antondung&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antondung&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=antondung&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+> ⚠️ *External statistics may occasionally be unavailable. The profile itself does not depend on these widgets.*
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/antondung/antondung/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-## ⭐ Explore My Work
+## 🚀 BUILD • BREAK • LEARN • REPEAT
 
-<a href="https://github.com/antondung/CMC-404-Not-Found">
-<img src="https://img.shields.io/badge/⚖️%20LexSocial%20AI-Explore%20Project-7C3AED?style=for-the-badge"/>
-</a>
+### Made with ☕ + curiosity + too many Git commits.
 
-<a href="https://github.com/antondung/Intelligent-Traffic-Monitoring-System-using-Drone-and-Web-Management">
-<img src="https://img.shields.io/badge/🚁%20Traffic%20Monitoring-Explore%20Project-0F766E?style=for-the-badge"/>
-</a>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=antondung&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 <br><br>
 
-<a href="https://github.com/antondung">
-<img src="https://img.shields.io/badge/Follow%20%40antondung-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=antondung&style=flat-square&color=64748B&label=Profile%20Views"/>
-
-<br><br>
-
-### Think → Research → Build → Test → Improve
-
-**Always learning. Always building.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:0F172A&height=120&section=footer" width="100%"/>
+**© Nguyễn Tấn Dũng · 2026**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:111827&height=120&section=footer" width="100%"/>
